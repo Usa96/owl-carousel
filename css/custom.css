@@ -1,0 +1,15 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+:root {
+	--cnvs-themecolor: #0094D9;
+	--cnvs-themecolor-rgb: #0094d9;
+	--cnvs-body-font: "Helvetica Neue", sans-serif;
+    --cnvs-primary-font: "Helvetica Neue", sans-serif;
+    --cnvs-secondary-font: "Helvetica Neue", serif;
+}
+
